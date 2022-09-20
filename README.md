@@ -3,10 +3,8 @@
 ## Lab 1
 
 ### App Description
-This app is a flashcard game that allows you to answer a simple question about one of our previous presidents.
+This app is a flashcard game that allows you to answer a simple question about one of our previous president's.
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://recordit.co/eIjfBxiSIi.gif" width=200><br>
 
 ## Required
