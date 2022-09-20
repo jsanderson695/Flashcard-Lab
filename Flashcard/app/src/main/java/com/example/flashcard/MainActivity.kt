@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val flashcardQuestion: TextView = findViewById<TextView>(R.id.flashcard_question)
+        val flashcardQuestion = findViewById<TextView>(R.id.flashcard_question)
         val flashcardAnswer = findViewById<TextView>(R.id.flashcard_answer)
         flashcardQuestion.setOnClickListener {
             flashcardQuestion.visibility = View.INVISIBLE

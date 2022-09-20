@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Flashcard</string>
     <string name="who_is_the_44th_president_of_the_united_states">Who is the 44th President of the United States?</string>
+    <string name="who_is_the_president_of_the_united_states">Who is the President of the United States?</string>
+    <string name="barack_obama">Barack Obama</string>
 </resources>

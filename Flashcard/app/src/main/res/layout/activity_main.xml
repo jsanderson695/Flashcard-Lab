@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="Who is the President of the United States?"
+        android:text="@string/who_is_the_president_of_the_united_states"
         android:textSize="40sp" />
 
     <TextView
@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="Barack Obama"
+        android:text="@string/barack_obama"
         android:textSize="40sp" />
 </RelativeLayout>
 
