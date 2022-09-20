@@ -5,7 +5,7 @@
 ### App Description
 This app is a flashcard game that allows you to answer a simple question about one of our previous president's.
 ### App Walk-though
-<img src="https://recordit.co/eIjfBxiSIi.gif" width=200><br>
+<img src="https://recordit.co/7zV4D9J900.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
