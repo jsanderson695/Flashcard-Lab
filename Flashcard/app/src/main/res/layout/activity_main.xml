@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="@string/who_is_the_president_of_the_united_states"
+        android:text="@string/who_is_the_44th_president_of_the_united_states"
         android:textSize="40sp" />
 
     <TextView
